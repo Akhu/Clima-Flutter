@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/ios/Pods/../Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/GeolocatorPlugin.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Modules/module.modulemap \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/LocationTask.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/LastKnownLocationTask.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/GeocodeTask.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/TaskProtocol.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/TaskContext.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/Task.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/CalculateDistanceTask.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/CLPlacemark_Extensions.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/CLLocation_Extensions.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/LocationOptions.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/geolocator-umbrella.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/LocationPermissionsPlugin.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Modules/module.modulemap \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/Enums.h \
+  /Users/Anthony/Code/Flutter/Clima-Flutter/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/location_permissions-umbrella.h

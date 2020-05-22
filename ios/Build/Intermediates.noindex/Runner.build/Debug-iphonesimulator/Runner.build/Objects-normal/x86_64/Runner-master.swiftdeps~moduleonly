@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "c960c9b6404bb3d3b096a708b97f848d"
+build_time: [1590161809, 837217000]
+inputs:
+  "/Users/Anthony/Code/Flutter/Clima-Flutter/ios/Runner/AppDelegate.swift": [1589719507, 893529132]

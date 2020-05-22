@@ -11,7 +11,14 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  geolocator: ^5.3.1
+  http: ^0.12.1
+  font_awesome_flutter: ^8.8.0
+  flutter_spinkit: "^4.1.2"
 
+dependency_overrides:
+  font_awesome_flutter:
+    path: "/Users/Anthony/Code/Flutter/CustomPub/font_awesome_flutter"
 dev_dependencies:
   flutter_test:
     sdk: flutter
